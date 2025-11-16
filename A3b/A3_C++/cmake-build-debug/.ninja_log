@@ -1,0 +1,8 @@
+# ninja log v6
+5	600	7848385721029908	CMakeFiles/A3b.dir/main.cpp.obj	9e4dc23e585565b8
+603	781	7848385727010316	A3b.exe	d1593d2414329f96
+35	772	7848565286136133	CMakeFiles/A3b.dir/algorithms.cpp.obj	21dae5aa3ff90380
+5	958	7848565285844996	CMakeFiles/A3b.dir/main.cpp.obj	9e4dc23e585565b8
+18	1068	7848565285972981	CMakeFiles/A3b.dir/array_generator.cpp.obj	420409473cda92d7
+26	1225	7848565286054250	CMakeFiles/A3b.dir/tester.cpp.obj	2acc7a23ed74a52
+1225	1424	7848565298037537	A3b.exe	a6f9c0e5267f96db

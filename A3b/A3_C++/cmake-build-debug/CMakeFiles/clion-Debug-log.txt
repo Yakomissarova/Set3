@@ -1,0 +1,4 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.1.6/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\nkomi\OneDrive\Рабочий стол\ВШЭ\АиСД\set 3\A3b" -B "C:\Users\nkomi\OneDrive\Рабочий стол\ВШЭ\АиСД\set 3\A3b\cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 3/A3b/cmake-build-debug

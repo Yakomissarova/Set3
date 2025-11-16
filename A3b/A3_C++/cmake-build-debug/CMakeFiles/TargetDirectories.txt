@@ -1,0 +1,4 @@
+C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 3/A3b/cmake-build-debug/CMakeFiles/A3b.dir
+C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 3/A3b/cmake-build-debug/CMakeFiles/set3_A3b.dir
+C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 3/A3b/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 3/A3b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
